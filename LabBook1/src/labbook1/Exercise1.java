@@ -16,7 +16,7 @@ public class Exercise1 {
 	        number = number/10;
 	        
 	}
-	    System.out.println("The sum the cubes of the digits :"+sum);
+	    System.out.println("The sum the cubes of the digits is :- "+sum);
 	}
 	public static void main(String[] args) {
 		 
